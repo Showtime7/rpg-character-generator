@@ -5,7 +5,7 @@
 @tailwind utilities;
 
 body {
-  @apply bg-medieval-parchment text-medieval-brown font-sans;
+  @apply bg-fantasy-bg text-fantasy-text font-sans;
 }
 
 h1, h2, h3, h4, h5, h6 {

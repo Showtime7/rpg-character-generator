@@ -7,11 +7,12 @@ export default {
     theme: {
         extend: {
             colors: {
-                medieval: {
-                    parchment: '#f4e4bc',
-                    brown: '#2c1810',
-                    gold: '#d4af37',
-                    crimson: '#8a0303',
+                fantasy: {
+                    bg: '#050510',
+                    primary: '#3b82f6',
+                    accent: '#e2e8f0',
+                    text: '#f8fafc',
+                    dark: '#0f172a',
                 }
             },
             fontFamily: {
